@@ -28,23 +28,23 @@ Analyzes student percentages, subject-wise marks, and academic performance diffe
 
 ## Dashboard Previews
 
-### Student Performance Analytics
+### 1. Student Performance Analytics
 ![Student Performance Analytics](screenshots/01-overview.png)
 
-### Attendance Analysis
+### 2. Attendance Analysis
 ![Attendance Analysis](screenshots/02-attendance-analysis.png)
 
-### Location Analysis
+### 3. Location Analysis
 ![Location Analysis](screenshots/03-location-analysis.png)
 
-### Student Details
+### 4. Student Details
 ![Student Details](screenshots/04-student-details.png)
 
-### Advanced Insights
+### 5. Advanced Insights
 ![Advanced Insights](screenshots/05-advanced-insights.png)
 
-### Percentage / Marks Analysis
-![Percentage and Marks Analysis](screenshots/06-marks-analysis.png)
+### 6. Percentage / Marks Analysis
+![Percentage / Marks Analysis](screenshots/06-marks-analysis.png)
 
 ## Tools and Technologies
 
