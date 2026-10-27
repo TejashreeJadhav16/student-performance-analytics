@@ -6,45 +6,27 @@ An interactive business intelligence project built with Microsoft Power BI to ex
 
 This project presents student data through six analytical dashboard pages, helping users explore academic performance, compare attendance, identify performance patterns, and review individual student records.
 
-## Dashboard Pages
-
-### 1. Student Performance Analytics
-Overview of student performance using key performance indicators and visual comparisons.
-
-### 2. Attendance Analysis
-Explores attendance patterns and helps compare attendance levels across students.
-
-### 3. Location Analysis
-Examines student distribution and compares academic metrics across available locations.
-
-### 4. Student Details
-Provides a detailed view of student-level records and academic information.
-
-### 5. Advanced Insights
-Supports deeper exploration of performance patterns and comparisons across relevant categories.
-
-### 6. Percentage / Marks Analysis
-Analyzes student percentages, subject-wise marks, and academic performance differences.
-
 ## Dashboard Previews
 
 ### 1. Student Performance Analytics
-![Student Performance Analytics](screenshots/01-overview.png)
+![Student Performance Analytics](./screenshots/01-overview.png)
 
 ### 2. Attendance Analysis
-![Attendance Analysis](screenshots/02-attendance-analysis.png)
+![Attendance Analysis](./screenshots/02-attendance-analysis.png)
 
 ### 3. Location Analysis
-![Location Analysis](screenshots/03-location-analysis.png)
+![Location Analysis](./screenshots/03-location-analysis.png)
 
 ### 4. Student Details
-![Student Details](screenshots/04-student-details.png)
+![Student Details](./screenshots/04-student-details.png)
 
 ### 5. Advanced Insights
-![Advanced Insights](screenshots/05-advanced-insights.png)
+![Advanced Insights](./screenshots/05-advanced-insights.png)
 
 ### 6. Percentage / Marks Analysis
-![Percentage / Marks Analysis](screenshots/06-marks-analysis.png)
+![Percentage / Marks Analysis](./screenshots/06-marks-analysis.png)
+
+
 
 ## Tools and Technologies
 
