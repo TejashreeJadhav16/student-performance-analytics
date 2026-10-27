@@ -9,22 +9,22 @@ This project presents student data through six analytical dashboard pages, helpi
 ## Dashboard Previews
 
 ### 1. Student Performance Analytics
-![Student Performance Analytics](./screenshots/01-overview.png)
+![Student Performance Analytics](./screenshots/01-overview.png.png)
 
 ### 2. Attendance Analysis
-![Attendance Analysis](./screenshots/02-attendance-analysis.png)
+![Attendance Analysis](./screenshots/02-attendance-analysis.png.png)
 
 ### 3. Location Analysis
-![Location Analysis](./screenshots/03-location-analysis.png)
+![Location Analysis](./screenshots/03-location-analysis.png.png)
 
 ### 4. Student Details
-![Student Details](./screenshots/04-student-details.png)
+![Student Details](./screenshots/04-student-details.png.png)
 
 ### 5. Advanced Insights
-![Advanced Insights](./screenshots/05-advanced-insights.png)
+![Advanced Insights](./screenshots/05-advanced-insights.png.png)
 
 ### 6. Percentage / Marks Analysis
-![Percentage / Marks Analysis](./screenshots/06-marks-analysis.png)
+![Percentage / Marks Analysis](./screenshots/06-marks-analysis.png.png)
 
 
 
